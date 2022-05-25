@@ -254,8 +254,8 @@ h2.middle-title-w3:after {
     font-size: 14px;
     text-transform: uppercase;
     letter-spacing: 1px;
-    border: 2px solid #8e43e7;
-    background: #8e43e7;
+    border: 2px solid #2dde98;
+    background: #2dde98;
 }
 
 .button-style:hover {
@@ -272,7 +272,7 @@ h3.title-w3 {
 
 h3.title-w3:before {
     content: "";
-    background: #8e43e7;
+    background: #2dde98;
     width: 100px;
     height: 2px;
     position: absolute;
@@ -298,7 +298,7 @@ ul.list-unstyled.brands li i {
 
 ul.list-unstyled.brands li i.active,
 ul.list-unstyled.brands li i:hover {
-    color: #8e43e7;
+    color: #2dde98;
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
     -moz-transition: 0.5s all;
@@ -333,7 +333,7 @@ ul.list-unstyled.brands li i:hover {
     color: #fff;
     width: 75px;
     height: 75px;
-    background: #8e43e7;
+    background: #2dde98;
     border-radius: 50%;
     line-height: 2.2;
 }
@@ -389,7 +389,7 @@ ul.list-beach li p {
 }
 
 .left-build-wthree ul li i {
-    color: #8e43e7;
+    color: #2dde98;
     font-size: 22px;
 }
 
@@ -489,7 +489,7 @@ h3.title-w3-3:before {
 }
 
 .w3_testimonials_grid h5 {
-    color: #8e43e7;
+    color: #2dde98;
     letter-spacing: 1px;
     font-size: 23px;
 }
@@ -513,7 +513,7 @@ h3.title-w3-3:before {
 }
 
 .carousel-indicators .active {
-    background-color: #8e43e7;
+    background-color: #2dde98;
 }
 
 .carousel-indicators {
@@ -554,7 +554,7 @@ h3.title-w3-3:before {
 }
 
 .blogs-bottom i {
-    color: #8e43e7;
+    color: #2dde98;
 }
 
 .blogs-bottom a {
@@ -577,7 +577,7 @@ p.copy-right-grids {
 }
 
 p.copy-right-grids a {
-    color: #8e43e7;
+    color: #2dde98;
 }
 
 /* //copyright */
@@ -600,7 +600,7 @@ p.copy-right-grids a {
 }
 
 .w3social-icons ul li a:hover {
-    color: #8e43e7;
+    color: #2dde98;
     -webkit-box-shadow: 0px 0px 13px 2px #8e43e7;
     -moz-box-shadow: 0px 0px 13px 2px #8e43e7;
     box-shadow: 0px 0px 13px 2px #8e43e7;
@@ -634,7 +634,7 @@ ul.footer-nav-wthree li a {
 
 /* page details */
 .breadcrumb li a {
-    color: #8e43e7;
+    color: #2dde98;
     font-weight: bold;
 }
 
@@ -654,7 +654,7 @@ h1.tittle {
 
 h2.sub-tittle {
     font-size: 16px;
-    color: #8e43e7;
+    color: #2dde98;
     letter-spacing: 1px;
 }
 
@@ -762,7 +762,7 @@ h2.sub-tittle {
     width: 40px;
     height: 40px;
     line-height: 40px;
-    background: #8e43e7;
+    background: #2dde98;
     margin-right: 10px;
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
@@ -778,7 +778,7 @@ h2.sub-tittle {
 
 .box16 .social li a:hover {
     background: #fff;
-    color: #8e43e7;
+    color: #2dde98;
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
     -moz-transition: 0.5s all;
@@ -930,7 +930,7 @@ h2.sub-tittle {
     -moz-transition: all .5s ease 0s;
     transition: all .5s ease 0s;
     text-align: center;
-    border-bottom: 5px solid #8e43e7;
+    border-bottom: 5px solid #2dde98;
 }
 
 .gallery-grid1 .p-mask .p-desc {
@@ -996,14 +996,14 @@ form.contact-wthree label {
     width: 45px;
     height: 45px;
     text-align: center;
-    background: #8e43e7;
+    background: #2dde98;
     line-height: 45px;
     color: #eee;
     margin-bottom: 0;
 }
 
 .contact-top1 button {
-    background: #8e43e7;
+    background: #2dde98;
     letter-spacing: 1px;
     border-radius: 0px;
     transition: 0.5s all;
@@ -1031,7 +1031,7 @@ form.contact-wthree label {
 
 .fv3-contact span {
     color: #fff;
-    background: #8e43e7;
+    background: #2dde98;
     width: 35px;
     height: 35px;
     line-height: 35px;
